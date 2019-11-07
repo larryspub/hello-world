@@ -1,4 +1,3 @@
 # hello-world
 just a test repository
-Changes are happening this is my first branch off the master.
-Change 1
+string myText = @"First round of edits" + "Changes 1";
